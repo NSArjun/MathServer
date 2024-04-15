@@ -160,8 +160,8 @@ urlpatterns = [
 ]
 ```
 ## SERVER SIDE PROCESSING:
+![image](https://github.com/NSArjun/MathServer/assets/148233801/508bd570-5c76-4ca8-971c-7cf4fb9a4afc)
 
-![alt text](serverside.png)
 
 ## HOMEPAGE:
 ![image](https://github.com/NSArjun/MathServer/assets/148233801/97985ba0-23bd-4a34-821a-96fe0393ff52)
