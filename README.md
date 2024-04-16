@@ -164,7 +164,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![image](https://github.com/NSArjun/MathServer/assets/148233801/97985ba0-23bd-4a34-821a-96fe0393ff52)
+![image](https://github.com/NSArjun/MathServer/assets/148233801/8298808b-37b5-4cae-9c18-3fbf989d493f)
+
 
 
 ## RESULT:
